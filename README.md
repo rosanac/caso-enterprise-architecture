@@ -1,2 +1,1 @@
 # caso-enterprise-architecture
-# Docs
